@@ -6,8 +6,7 @@ Build a fully functional Twitter clone with using a <b>Next.js 14</b> with <b>Ty
 
 
 
-## 📽 Demo video link 
-https://x.com/imDignesh/status/1784166713694773756
+
 
 ## ✨ Features 
 
