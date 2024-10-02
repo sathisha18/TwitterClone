@@ -4,7 +4,6 @@
 Build a fully functional Twitter clone with using a <b>Next.js 14</b> with <b>TypeScript</b>, <b>Sass</b>, <b>TailwindCSS</b>, <b>Framer-motion</b>, <b>Tanstack Query</b>, <b>MongoDB</b>, <b>Supabase</b>, <b>Prisma</b>, <b>NextAuth</b> and <b>Zustand.</b> It showcases advanced frontend and backend capabilities.
 </p>
 
-<img width="1527" alt="twitter-clone-preview" src="https://tsedxkflgndtkvrmgbug.supabase.co/storage/v1/object/public/images/project_preview.png?t=2024-07-23T09%3A05%3A46.142Z">
 
 
 ## 📽 Demo video link 
